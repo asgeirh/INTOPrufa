@@ -31,6 +31,8 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Ásgeir Halldórsson var hér" << endl;	
+
 	int val;
 	do
 	{
